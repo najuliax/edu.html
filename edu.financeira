@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Controle Social</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Controle Social</h1>
+      
+    </div>
+
+    <section class="intro">
+        <h2>O que é Controle Social?</h2>
+        <p>O controle social é um conceito que se refere ao conjunto de processos, mecanismos e estratégias pelos quais a sociedade influencia, monitora e fiscaliza as ações e decisões das instituições públicas e privadas, bem como dos indivíduos que ocupam posições de poder e autoridade. Ele desempenha um papel crucial na manutenção do equilíbrio e da responsabilidade nas diversas esferas da sociedade.
+
+</p>
+    </section>
+
+    <section class="topics">
+        <h2>Principais Tópicos</h2>
+        <ul>
+            <li>Participação Cidadã</li>
+            <li>Transparência Governamental</li>
+            <li>Fiscalização</li>
+            <li>Responsabilidade Social</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Controle Social </p>
+    </footer>
+</body>
+</html>
