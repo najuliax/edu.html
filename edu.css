@@ -23,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(115, 141, 93);
+    color: rgb(26, 63, 117);
     text-decoration: none;
 }
 
@@ -32,22 +32,26 @@ nav ul li a {
 }
 
 .topics {
-    background-color: rgb(81, 134,71);
+    background-color: rgba(69, 153, 233, 0.692);
     padding: 2rem;
 }
 
 footer {
-    background-color: rgb(81, 134, 71);
+    background-color: rgb(11, 108, 236);
     color: rgb(226, 223, 220);
     text-align: center;
     padding: 1rem;
 }
 
 .header{
-  background-color: rgb(81, 134, 71);
+  background-color: rgb(11, 108, 236);
   width: 500px;
   height: 100px;
   text-align: center;
+  align-self: ;
+  padding: 1rem;
+  
+ 
   
   
 
@@ -57,3 +61,13 @@ footer {
 h1{
   
   }
+  .container {
+    text-align: center; /* Centralizar a imagem horizontalmente */
+    padding: 20px;
+}
+
+img {
+    max-width: 70%; /* Garante que a imagem não seja maior que o seu contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
